@@ -9,6 +9,7 @@ public class Maths_Add {
 	        	    	 int  b = 25;
 	        	    	 int  c = a+b;
 	        	    	 System.out.println("The Value of C is --> " + c);	        	    		 
+						 System.out.println("First Commit in Visual Studio Code");
 	        	    }
 	        	    catch(Exception E) {
 	        	    	E.printStackTrace();
